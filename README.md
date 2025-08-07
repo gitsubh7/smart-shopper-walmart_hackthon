@@ -152,10 +152,13 @@ Runs on: [http://localhost:8000](http://localhost:8000)
 
 ---
 
-## 👤 Contributor
+## 👤 Contributors
 
 **Devendra Singh**
 🔗 [GitHub – @dev04sa](https://github.com/dev04sa)
+**Abdul Subhan**
+🔗 [GitHub – @gitsubh7](https://github.com/gitsubh7`)
+
 
 ---
 
